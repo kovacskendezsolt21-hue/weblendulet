@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 165" role="img" aria-labelledby="title desc">
+<title id="title">WebLendület dinamikus WL monogram</title>
+<desc id="desc">Felfelé gyorsuló W és nyílban végződő L zöld színátmenettel.</desc>
+<defs>
+  <linearGradient id="motion" x1="8" y1="142" x2="247" y2="15" gradientUnits="userSpaceOnUse"><stop stop-color="#26965b"/><stop offset=".5" stop-color="#62d98b"/><stop offset="1" stop-color="#c8f66b"/></linearGradient>
+  <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#26965b" stop-opacity="0"/><stop offset="1" stop-color="#62d98b"/></linearGradient>
+</defs>
+<path d="M2 47h29M7 65h20" fill="none" stroke="url(#trail)" stroke-width="7" stroke-linecap="round" opacity=".72"/>
+<path d="M25 43 53 137 91 78 126 137 165 28" fill="none" stroke="url(#motion)" stroke-width="27" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="m151 30 31-22-8 39Z" fill="#c8f66b"/>
+<path d="M191 29h28l-10 80h18V94l27 30-33 31 3-18h-49Z" fill="url(#motion)"/>
+<path d="m230 108 24 16-20 19Z" fill="#c8f66b"/>
+</svg>
