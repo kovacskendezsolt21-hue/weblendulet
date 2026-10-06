@@ -23,8 +23,8 @@ img { display: block; max-width: 100%; }
 .site-header { position: sticky; top: 0; z-index: 50; background: rgba(244,247,241,.88); border-bottom: 1px solid rgba(17,23,17,.08); backdrop-filter: blur(18px); }
 .nav-wrap { height: 78px; display: flex; align-items: center; justify-content: space-between; }
 .brand { display: inline-flex; align-items: center; gap: 10px; font-family: "Manrope", sans-serif; font-size: 20px; font-weight: 800; letter-spacing: -.04em; }
-.brand > span:last-child > span { color: var(--green-dark); font-style: italic; }
-.brand-mark { display: block; width: 52px; height: 33px; object-fit: contain; }
+.brand > span:last-child > span { color: var(--green-dark); }
+.brand-mark { display: block; width: 54px; height: 31px; object-fit: contain; }
 .nav { display: flex; align-items: center; gap: 31px; font-size: 13px; font-weight: 600; }
 .nav > a:not(.nav-button) { color: #49534b; transition: color .2s; }.nav > a:not(.nav-button):hover { color: var(--green-dark); }
 .nav-button { padding: 11px 18px; color: white; background: var(--ink); border-radius: 11px; transition: transform .2s, background .2s; }.nav-button:hover { transform: translateY(-2px); background: var(--green-dark); }

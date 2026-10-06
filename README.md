@@ -8,8 +8,9 @@ Portfólió- és értékesítési weboldal kis- és középvállalkozásoknak k�
 - `styles.css` — dizájn és reszponzív nézetek
 - `script.js` — mobilmenü, GYIK, animáció és Formspree űrlap
 - `assets/frisspont-preview-blue.jpg` — referenciamunka előnézete
-- `assets/weblendulet-wl-motion.svg` — WL monogramlogó és favicon
-- `assets/weblendulet-logo-motion.svg` — teljes, vízszintes logó
+- `assets/weblendulet-slant-signature.svg` — WL monogramlogó és favicon
+- `assets/weblendulet-slant-signature-reverse.svg` — inverz logó sötét háttérhez
+- `assets/weblendulet-logo-signature.svg` — teljes, vízszintes logó
 - `assets/*.png` — nagy felbontású logóexportok
 
 ## Publikálás
