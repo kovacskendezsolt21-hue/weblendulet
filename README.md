@@ -1,6 +1,6 @@
 # WebLendület
 
-Portfólió- és értékesítési weboldal helyi szolgáltató vállalkozásoknak készített webdesign szolgáltatáshoz.
+Portfólió- és értékesítési weboldal kis- és középvállalkozásoknak készített webdesign szolgáltatáshoz.
 
 ## Fájlok
 
