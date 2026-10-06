@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" role="img" aria-labelledby="title desc">
+<title id="title">WebLendület WL monogram</title>
+<desc id="desc">Tömör, geometrikus zöld W és L monogram.</desc>
+<defs>
+  <linearGradient id="wGradient" x1="14" y1="28" x2="158" y2="132" gradientUnits="userSpaceOnUse"><stop stop-color="#c8f66b"/><stop offset=".48" stop-color="#62d98b"/><stop offset="1" stop-color="#26965b"/></linearGradient>
+  <linearGradient id="lGradient" x1="180" y1="28" x2="232" y2="132" gradientUnits="userSpaceOnUse"><stop stop-color="#62d98b"/><stop offset="1" stop-color="#26965b"/></linearGradient>
+</defs>
+<path d="M16 28 45 128 84 57 120 128 153 28" fill="none" stroke="url(#wGradient)" stroke-width="27" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M188 28h20v76h26v28h-54V36q0-8 8-8Z" fill="url(#lGradient)"/>
+<path d="m220 104 14 0v28h-21Z" fill="#c8f66b" opacity=".92"/>
+</svg>
