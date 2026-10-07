@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 170" role="img" aria-labelledby="title desc">
+<title id="title">Wende inverz W monogram</title><desc id="desc">Előredőlő geometrikus W, diagonális fordulatvágással.</desc>
+<defs><mask id="turn-cut" maskUnits="userSpaceOnUse"><rect width="200" height="170" fill="white"/><path d="m133 77 35-15-4 17-34 15Z" fill="black"/></mask></defs>
+<g transform="translate(13 0) skewX(-7)">
+  <path fill="#62d98b" mask="url(#turn-cut)" d="M14 25h31l15 75 22-50h25l22 50 15-75h31l-25 120h-35L94 96l-21 49H39Z"/>
+  <path fill="#f4f7f1" d="M144 25h31l-8 37-34 15Z"/>
+</g>
+</svg>
