@@ -13,4 +13,4 @@ Modern, mobilbarát portfólióoldal kis- és középvállalkozások weboldalain
 
 ## Logó
 
-- `assets/wende-original-logo-v2.png`: a felhasználó eredeti, változtatás nélkül beépített PNG-logója.
+- `assets/wende-original-logo-v3.png`: a felhasználó eredeti, változtatás nélkül beépített PNG-logója.
