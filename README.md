@@ -10,3 +10,7 @@ Modern, mobilbarát portfólióoldal kis- és középvállalkozások weboldalain
 - `assets/wende-neon-fold.svg` — elsődleges W monogram és favicon
 - `assets/wende-neon-fold-reverse.svg` — inverz W monogram sötét háttérhez
 - `assets/wende-neon-logo.svg` — teljes vízszintes logó
+
+## Logó
+
+- `assets/wende-original-logo.png`: a felhasználó eredeti, változtatás nélkül beépített PNG-logója.
