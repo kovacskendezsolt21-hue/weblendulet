@@ -7,6 +7,4 @@ Modern, mobilbarát portfólióoldal kis- és középvállalkozások weboldalain
 - `index.html` — az oldal tartalma
 - `styles.css` — megjelenés és reszponzív elrendezés
 - `script.js` — mobilmenü, GYIK és kapcsolatfelvételi űrlap
-- `assets/wende-neon-fold.svg` — elsődleges W monogram és favicon
-- `assets/wende-neon-fold-reverse.svg` — inverz W monogram sötét háttérhez
-- `assets/wende-neon-logo.svg` — teljes vízszintes logó
+- `assets/wende-generated-neon.svg` — neon zöld szalag-W logó és favicon
